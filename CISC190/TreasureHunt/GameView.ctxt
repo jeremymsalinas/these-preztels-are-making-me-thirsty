@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameView
+comment0.text=\n\ \n\ Lead\ Author\:\ \n\ Jeremy\ Salinas;\ 5713282\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\ \n\ Version\:\ \n\ 8/14/21\n
+comment1.params=game
+comment1.target=GameView(TreasureHuntGame)
+comment1.text=\n\ Constructor\ for\ GameView\ \n\ Takes\ a\ TreasureHuntGame\ and\ creates\ a\ view\ for\ that\ game\n
+comment2.params=i\ j\ game
+comment2.target=void\ addActionListener(int,\ int,\ TreasureHuntGame)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ play()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\n\ Main\ method\ for\ GameView\n
+numComments=6
